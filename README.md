@@ -33,4 +33,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Shrikantmahore1/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrikantmahore1/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Hash Table
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrikantmahore1/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Sorting
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrikantmahore1/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrikantmahore1/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
