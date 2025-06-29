@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/Shrikantmahore1/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0979-di-string-match](https://github.com/Shrikantmahore1/Leetcode/tree/master/0979-di-string-match) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shrikantmahore1/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Shrikantmahore1/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/Shrikantmahore1/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shrikantmahore1/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Shrikantmahore1/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/Shrikantmahore1/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
