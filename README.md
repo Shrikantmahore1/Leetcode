@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shrikantmahore1/Leetcode/tree/master/0069-sqrtx) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Shrikantmahore1/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Combinatorics
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shrikantmahore1/Leetcode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Shrikantmahore1/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shrikantmahore1/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3643-zero-array-transformation-ii) |
