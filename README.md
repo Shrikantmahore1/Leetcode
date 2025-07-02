@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Shrikantmahore1/Leetcode/tree/master/0979-di-string-match) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shrikantmahore1/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shrikantmahore1/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shrikantmahore1/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shrikantmahore1/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
