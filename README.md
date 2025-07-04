@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Shrikantmahore1/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shrikantmahore1/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shrikantmahore1/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Shrikantmahore1/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Shrikantmahore1/Leetcode/tree/master/0979-di-string-match) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shrikantmahore1/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shrikantmahore1/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Shrikantmahore1/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shrikantmahore1/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Memoization
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shrikantmahore1/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Shrikantmahore1/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Counting
 |  |
 | ------- |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shrikantmahore1/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Stack
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Shrikantmahore1/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
