@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0979-di-string-match](https://github.com/Shrikantmahore1/Leetcode/tree/master/0979-di-string-match) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Shrikantmahore1/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shrikantmahore1/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shrikantmahore1/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -90,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shrikantmahore1/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Shrikantmahore1/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Shrikantmahore1/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shrikantmahore1/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Shrikantmahore1/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Shrikantmahore1/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Search Tree
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shrikantmahore1/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Shrikantmahore1/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
