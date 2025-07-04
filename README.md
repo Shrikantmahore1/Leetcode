@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shrikantmahore1/Leetcode/tree/master/0069-sqrtx) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrikantmahore1/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shrikantmahore1/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shrikantmahore1/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2048-build-array-from-permutation](https://github.com/Shrikantmahore1/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Shrikantmahore1/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrikantmahore1/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrikantmahore1/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shrikantmahore1/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shrikantmahore1/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Shrikantmahore1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrikantmahore1/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrikantmahore1/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shrikantmahore1/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Heap (Priority Queue)
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/Shrikantmahore1/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrikantmahore1/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
