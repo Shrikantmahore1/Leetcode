@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Shrikantmahore1/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0979-di-string-match](https://github.com/Shrikantmahore1/Leetcode/tree/master/0979-di-string-match) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shrikantmahore1/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Shrikantmahore1/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2048-build-array-from-permutation](https://github.com/Shrikantmahore1/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Shrikantmahore1/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrikantmahore1/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Shrikantmahore1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Shrikantmahore1/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shrikantmahore1/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shrikantmahore1/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Shrikantmahore1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Shrikantmahore1/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shrikantmahore1/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Tree
 |  |
