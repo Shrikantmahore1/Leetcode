@@ -186,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shrikantmahore1/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/Shrikantmahore1/Leetcode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
