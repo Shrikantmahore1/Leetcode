@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shrikantmahore1/Leetcode/tree/master/0075-sort-colors) |
 | [0174-dungeon-game](https://github.com/Shrikantmahore1/Leetcode/tree/master/0174-dungeon-game) |
 | [0495-teemo-attacking](https://github.com/Shrikantmahore1/Leetcode/tree/master/0495-teemo-attacking) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shrikantmahore1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shrikantmahore1/Leetcode/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shrikantmahore1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shrikantmahore1/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shrikantmahore1/Leetcode/tree/master/0075-sort-colors) |
 | [0979-di-string-match](https://github.com/Shrikantmahore1/Leetcode/tree/master/0979-di-string-match) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shrikantmahore1/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Shrikantmahore1/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
