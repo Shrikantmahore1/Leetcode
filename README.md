@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Shrikantmahore1/Leetcode/tree/master/0185-department-top-three-salaries) |
+| [0595-big-countries](https://github.com/Shrikantmahore1/Leetcode/tree/master/0595-big-countries) |
 ## Segment Tree
 |  |
 | ------- |
