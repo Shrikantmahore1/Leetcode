@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0979-di-string-match](https://github.com/Shrikantmahore1/Leetcode/tree/master/0979-di-string-match) |
+| [1448-maximum-69-number](https://github.com/Shrikantmahore1/Leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shrikantmahore1/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shrikantmahore1/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shrikantmahore1/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shrikantmahore1/Leetcode/tree/master/0069-sqrtx) |
+| [1448-maximum-69-number](https://github.com/Shrikantmahore1/Leetcode/tree/master/1448-maximum-69-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrikantmahore1/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shrikantmahore1/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
