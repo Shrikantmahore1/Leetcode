@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/Shrikantmahore1/Leetcode/tree/master/0174-dungeon-game) |
+| [0867-new-21-game](https://github.com/Shrikantmahore1/Leetcode/tree/master/0867-new-21-game) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shrikantmahore1/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shrikantmahore1/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shrikantmahore1/Leetcode/tree/master/0069-sqrtx) |
+| [0867-new-21-game](https://github.com/Shrikantmahore1/Leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Shrikantmahore1/Leetcode/tree/master/1448-maximum-69-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrikantmahore1/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Shrikantmahore1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/Shrikantmahore1/Leetcode/tree/master/0867-new-21-game) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Shrikantmahore1/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Bit Manipulation
 |  |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Shrikantmahore1/Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
