@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shrikantmahore1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0979-di-string-match](https://github.com/Shrikantmahore1/Leetcode/tree/master/0979-di-string-match) |
 | [1448-maximum-69-number](https://github.com/Shrikantmahore1/Leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shrikantmahore1/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shrikantmahore1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Shrikantmahore1/Leetcode/tree/master/0075-sort-colors) |
 | [0174-dungeon-game](https://github.com/Shrikantmahore1/Leetcode/tree/master/0174-dungeon-game) |
 | [0495-teemo-attacking](https://github.com/Shrikantmahore1/Leetcode/tree/master/0495-teemo-attacking) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shrikantmahore1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Shrikantmahore1/Leetcode/tree/master/0075-sort-colors) |
 | [0979-di-string-match](https://github.com/Shrikantmahore1/Leetcode/tree/master/0979-di-string-match) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shrikantmahore1/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
