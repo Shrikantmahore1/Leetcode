@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shrikantmahore1/Leetcode/tree/master/0069-sqrtx) |
+| [0679-24-game](https://github.com/Shrikantmahore1/Leetcode/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/Shrikantmahore1/Leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Shrikantmahore1/Leetcode/tree/master/1448-maximum-69-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shrikantmahore1/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Shrikantmahore1/Leetcode/tree/master/0174-dungeon-game) |
 | [0495-teemo-attacking](https://github.com/Shrikantmahore1/Leetcode/tree/master/0495-teemo-attacking) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shrikantmahore1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/Shrikantmahore1/Leetcode/tree/master/0679-24-game) |
 | [0945-snakes-and-ladders](https://github.com/Shrikantmahore1/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0979-di-string-match](https://github.com/Shrikantmahore1/Leetcode/tree/master/0979-di-string-match) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shrikantmahore1/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Shrikantmahore1/Leetcode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shrikantmahore1/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Shrikantmahore1/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Counting
