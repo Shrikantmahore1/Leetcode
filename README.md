@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Shrikantmahore1/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shrikantmahore1/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shrikantmahore1/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shrikantmahore1/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Shrikantmahore1/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Shrikantmahore1/Leetcode/tree/master/3643-zero-array-transformation-ii) |
